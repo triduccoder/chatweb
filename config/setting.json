@@ -1,0 +1,7 @@
+{
+    "mongodb":{
+        "username":"root",
+        "password":"root",
+        "database":"ktra"
+    }
+}
